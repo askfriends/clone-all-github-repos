@@ -61,6 +61,8 @@ __On fist use, you get asked for your GitHub Username and a GitHub API token to 
 
 __To create an access-token go to GitHub > Settings > Developer settings > Personal access tokens. Give at least read access to your public repositories.__ 
 
+# Important: Use your username not email address!
+
 ![create an access-token](/screenshots/githubsettings.jpg?raw=true "GitHub > Settings > Personal access tokens")
 (old screenshot, now located under Settings > Developer settings)
 
